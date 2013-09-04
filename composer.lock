@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "e583cf4becce7c494d37267d7c08bd40",
+    "hash": "fbc5f5c43f71f1e3f7a660e0f348fac1",
     "packages": [
         {
             "name": "guzzle/common",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/common.git",
-                "reference": "v3.7.2"
+                "reference": "70c8e8a624e2ef1657ce0045d845bee9f46a325e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/common/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/common/zipball/70c8e8a624e2ef1657ce0045d845bee9f46a325e",
+                "reference": "70c8e8a624e2ef1657ce0045d845bee9f46a325e",
                 "shasum": ""
             },
             "require": {
@@ -56,12 +56,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/http.git",
-                "reference": "v3.7.2"
+                "reference": "a18954489d8af2e04ee9e3bafd3bf703b55459ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/http/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/http/zipball/a18954489d8af2e04ee9e3bafd3bf703b55459ff",
+                "reference": "a18954489d8af2e04ee9e3bafd3bf703b55459ff",
                 "shasum": ""
             },
             "require": {
@@ -113,12 +113,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/parser.git",
-                "reference": "v3.7.2"
+                "reference": "a25c2ddda1c52fb69a4ee56eb530b13ddd9573c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/parser/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/parser/zipball/a25c2ddda1c52fb69a4ee56eb530b13ddd9573c2",
+                "reference": "a25c2ddda1c52fb69a4ee56eb530b13ddd9573c2",
                 "shasum": ""
             },
             "require": {
@@ -157,12 +157,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/stream.git",
-                "reference": "v3.7.2"
+                "reference": "a86111d9ac7db31d65a053c825869409fe8fc83f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/stream/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/stream/zipball/a86111d9ac7db31d65a053c825869409fe8fc83f",
+                "reference": "a86111d9ac7db31d65a053c825869409fe8fc83f",
                 "shasum": ""
             },
             "require": {
@@ -205,17 +205,17 @@
         },
         {
             "name": "symfony/browser-kit",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/BrowserKit",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/BrowserKit.git",
-                "reference": "v2.3.3"
+                "reference": "2639dc4eec81f92760e05396a93bb78000b4f5ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/BrowserKit/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/BrowserKit/zipball/2639dc4eec81f92760e05396a93bb78000b4f5ca",
+                "reference": "2639dc4eec81f92760e05396a93bb78000b4f5ca",
                 "shasum": ""
             },
             "require": {
@@ -260,17 +260,17 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/CssSelector",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/CssSelector.git",
-                "reference": "v2.3.3"
+                "reference": "885544201cb24e79754da1dbd61bd779c2e4353e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/CssSelector/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/CssSelector/zipball/885544201cb24e79754da1dbd61bd779c2e4353e",
+                "reference": "885544201cb24e79754da1dbd61bd779c2e4353e",
                 "shasum": ""
             },
             "require": {
@@ -311,17 +311,17 @@
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/DomCrawler",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DomCrawler.git",
-                "reference": "v2.3.3"
+                "reference": "e05e07fe8958a304b5e135f8e65d4ae6148cf59b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/e05e07fe8958a304b5e135f8e65d4ae6148cf59b",
+                "reference": "e05e07fe8958a304b5e135f8e65d4ae6148cf59b",
                 "shasum": ""
             },
             "require": {
@@ -364,17 +364,17 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/EventDispatcher",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/EventDispatcher.git",
-                "reference": "v2.3.3"
+                "reference": "41c9826457c65fa3cf746f214985b7ca9cba42f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/EventDispatcher/zipball/41c9826457c65fa3cf746f214985b7ca9cba42f8",
+                "reference": "41c9826457c65fa3cf746f214985b7ca9cba42f8",
                 "shasum": ""
             },
             "require": {
@@ -418,17 +418,17 @@
         },
         {
             "name": "symfony/finder",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/Finder",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Finder.git",
-                "reference": "v2.3.3"
+                "reference": "4a0fee5b86f5bbd9dfdc11ec124eba2915737ce1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Finder/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/Finder/zipball/4a0fee5b86f5bbd9dfdc11ec124eba2915737ce1",
+                "reference": "4a0fee5b86f5bbd9dfdc11ec124eba2915737ce1",
                 "shasum": ""
             },
             "require": {
@@ -461,21 +461,21 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "http://symfony.com",
-            "time": "2013-07-21 12:12:18"
+            "time": "2013-08-13 20:18:00"
         },
         {
             "name": "symfony/process",
-            "version": "v2.3.3",
+            "version": "v2.3.4",
             "target-dir": "Symfony/Component/Process",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Process.git",
-                "reference": "v2.3.3"
+                "reference": "1e91553e1cedd0b8fb1da6ea4f89b02e21713d5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Process/zipball/v2.3.3",
-                "reference": "v2.3.3",
+                "url": "https://api.github.com/repos/symfony/Process/zipball/1e91553e1cedd0b8fb1da6ea4f89b02e21713d5b",
+                "reference": "1e91553e1cedd0b8fb1da6ea4f89b02e21713d5b",
                 "shasum": ""
             },
             "require": {
@@ -508,7 +508,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "http://symfony.com",
-            "time": "2013-08-02 21:51:01"
+            "time": "2013-08-22 06:42:25"
         }
     ],
     "packages-dev": [
@@ -519,12 +519,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/plugin-history.git",
-                "reference": "v3.7.2"
+                "reference": "4d5abfc332cd426c8d415cfed7010b3e99bad245"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/plugin-history/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/plugin-history/zipball/4d5abfc332cd426c8d415cfed7010b3e99bad245",
+                "reference": "4d5abfc332cd426c8d415cfed7010b3e99bad245",
                 "shasum": ""
             },
             "require": {
@@ -568,12 +568,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/plugin-mock.git",
-                "reference": "v3.7.2"
+                "reference": "040c8009e4fd72d11cfc47c9a6a83f60e3f0615d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/plugin-mock/zipball/v3.7.2",
-                "reference": "v3.7.2",
+                "url": "https://api.github.com/repos/guzzle/plugin-mock/zipball/040c8009e4fd72d11cfc47c9a6a83f60e3f0615d",
+                "reference": "040c8009e4fd72d11cfc47c9a6a83f60e3f0615d",
                 "shasum": ""
             },
             "require": {
